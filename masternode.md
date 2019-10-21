@@ -1,6 +1,8 @@
-Node Setting Method   
+# Node Setting Method   
 
-i) Staking node  
+***
+
+## Staking node  
 
 Staking node is very simple. If you run core wallet with Renish, renish.conf and masternode.conf files are automatically created when core wallet is executed.  
 
@@ -30,11 +32,11 @@ renish-cli masternode list
 ```
 
 
-ii) Masternode   
+## Masternode   
 
 Masternode configuration is a bit complicated. sometimes the configuration setting may differ depending on each cryptocurrency. this setting method described here is a common example.  
 
-Masternode has different collateral values ??set for each cryptocurrency. and there must be the coin in the wallet equal to that collateral amount.masternode must use both renish.conf and masternode.conf files.   
+Masternode has different collateral values set for each cryptocurrency. and there must be the coin in the wallet equal to that collateral amount.masternode must use both renish.conf and masternode.conf files.   
 
 Basically, in the renish.conf, you can write:   
 
