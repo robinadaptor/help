@@ -19,12 +19,16 @@ We simply defined a chainnet data packet.
 header	chain transfer protocol (CTP)
 -----------------------------------------
 
+pn	protocal name (CTP)
+ver	protocol version
+type	data format
+length	data length
 tid	top chain id key
 cid	gateway chain id key
 gid	gateway id key
 pid	peer id key
 pubkey	public key
-pivkey	private key
+date	lasttime
 
 -----------------------------------------
 data	data information
