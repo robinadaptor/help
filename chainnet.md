@@ -10,6 +10,7 @@ Blockchain has evolved into various models. In the near future, standard communi
 In order to eliminate the weakness of the centralized system, the blockchain will be able to communicate with another blockchain, and even among those blockchain groups. It is likely that standardized communication protocols will be needed to enable such a system. We decided to call it a chainnet.   
 
 In the future, chainnet will evolve into another giant internet. Chainnet will also be able to communicate with gateway groups, gateway, and public/private nodes.   
+
 We simply defined a chainnet data packet.   
 
 
