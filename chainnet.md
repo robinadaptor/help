@@ -3,7 +3,7 @@
 ***
 
 
-## communication protocol between gateway chain systems    
+## Communication protocol between gateway chain systems    
 
 Blockchain has evolved into various models. In the near future, standard communication protocols between these advanced system families will be needed. Unlike a centralized system, blockchain cannot forge data and protect digital assets from external heckers.   
 
