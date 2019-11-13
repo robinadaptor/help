@@ -19,7 +19,7 @@ We simply defined a chainnet data packet.
 header	chain transfer protocol (CTP)
 -----------------------------------------
 
-pn	protocal name (CTP)
+pn	protocol name (CTP)
 ver	protocol version
 type	data format
 length	data length
@@ -45,5 +45,5 @@ Individual bloggers should not mislead the entire distributed system ecosystem a
 
 We think that leading and defining our world correctly is an important choice for the future. True Chainnet will come closer to reality.
 
-robinadaptor  
+Robinadaptor  
 robin.adaptor@gmail.com
