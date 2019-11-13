@@ -28,6 +28,7 @@ cid	gateway chain id key
 gid	gateway id key
 pid	peer id key
 pubkey	public key
+code	return code
 date	lasttime
 
 -----------------------------------------
@@ -35,6 +36,14 @@ data	data information
 -----------------------------------------
 
 ```
+
+Do we maintain a true blockchain ecosystem?
+
+Distributed systems include extensive infrastructure, but sometimes they must also encompass individual systems. We think that is the comprehensive mercy of a true distributed system.
+
+Individual bloggers should not mislead the entire distributed system ecosystem and lead the black culture. It is desirable to maintain the system based on the ideas and operational efforts of each. The start of the blockchain is therefore more meaningful. We each need to form our own unique infrastructure. 
+
+We think that leading and defining our world correctly is an important choice for the future. True Chainnet will come closer to reality.
 
 robinadaptor  
 robin.adaptor@gmail.com
