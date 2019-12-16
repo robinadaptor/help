@@ -112,4 +112,5 @@ masternodeaddr=128.128.128.128:30001			# user's internal/external ip and port
 addnode=8.8.8.8						# add a node IP address
 ```
 
-written by robinadaptor  
+Robinadaptor   
+robin.adaptor@gmail.com   
