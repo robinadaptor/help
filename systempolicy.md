@@ -11,7 +11,7 @@ Proof of stake systems are energy-saving systems that also help to preserve the 
 
 
 
-## Energy Saving, Knowledge Intensive System   
+## Transparent Cryptocurrency Policy   
 
 National cryptocurrency policies are different. We decided to support the transparent trading policy with the recent increase in the crime rate of dark coins. It is a white coin policy.   
 
