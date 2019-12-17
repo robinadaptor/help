@@ -19,5 +19,15 @@ It is thought that white coins will contribute to popularization. It is believed
 
 
 
+## Preservation of Cryptocurrency Assets   
+
+Cryptocurrency is the business of the future industry combining technology and credit. Many cryptocurrencies have emerged and disappeared to date.  
+
+The disappearance of cryptocurrency has been caused by various factors, such as business bankruptcy, poor management, and lack of technology. Therefore, we studied the technology that can restore digital assets without destroying them as a way to protect customers' assets.   
+
+Preserving customer assets is the most important part of the credit business.   
+   
+   
+   
 Robinadaptor   
 robin.adaptor@gmail.com    
