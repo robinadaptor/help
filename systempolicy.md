@@ -27,6 +27,14 @@ The disappearance of cryptocurrency has been caused by various factors, such as 
 
 Preserving customer assets is the most important part of the credit business.   
    
+
+
+## Decentralized network system
+
+Robin Project opposes centralization policy. In addition to simply decentralization core systems, we want to drive decentralization policies for all infrastructure systems.   
+
+I think all systems such as social networks, exchanges, markets, forum site, portal site, etc. should be decentralized. I think it will develop into a truly democratic and human engineering system.   
+
    
    
 Robinadaptor   
