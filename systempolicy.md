@@ -29,7 +29,7 @@ Preserving customer assets is the most important part of the credit business.
    
 
 
-## Decentralized network system
+## Decentralized network system   
 
 Robin Project opposes centralization policy. In addition to simply decentralization core systems, we want to drive decentralization policies for all infrastructure systems.   
 
